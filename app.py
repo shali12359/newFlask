@@ -4,7 +4,7 @@
 # import os 
 # import strings
 
-# # INIT APP 
+#  INIT APP 
 # app = Flask(__name__)
 
 # # BASIC ROUTE 
