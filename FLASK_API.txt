@@ -1,0 +1,8 @@
+1 - create virtual env
+*. pipenv shell 
+
+2 - import DB (On python console)
+*. from file_name import db_object
+
+3 - create DB 
+*. db_object.create_all()
